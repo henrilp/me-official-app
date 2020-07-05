@@ -1,5 +1,8 @@
 <template>
   <div id="app">
+
+    <AppBar/>
+
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
@@ -7,6 +10,18 @@
     <router-view/>
   </div>
 </template>
+
+<script>
+// @ is an alias to /src
+import AppBar from '@/components/AppBar.vue';
+
+export default {
+  name: 'App',
+  components: {
+    AppBar,
+  },
+};
+</script>
 
 <style>
 #app {
@@ -28,5 +43,23 @@
 
 #nav a.router-link-exact-active {
   color: #42b983;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.row-only {
+  display: flex;
+  flex-direction: row;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.padded {
+  padding: 1rem;
 }
 </style>

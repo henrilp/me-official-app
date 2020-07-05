@@ -1,0 +1,28 @@
+what
+how
+why
+(when) this is the scale of therest
+
+is beautiful what you present as beautiful
+
+presenting some achievements in my life
+- Boy scout chief
+- Télécom paristech, grande école d'igénieur
+- Orange ?
+- Monkey Money
+- Distrimédic
+- Padam Mobility
+
+No need to talk specifically about my personality - hobbies - values, but let them color the design
+
+============
+index   // chronological
+display
+what
+when
+how     // should be: what did you do during this period, how did you pass it ? technically ? day to day ?
+why
+
+how to manage translations ? at what level put the "fr"-"en" ?
+what makes it easy to implement later, in another language for example ?
+

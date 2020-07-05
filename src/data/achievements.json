@@ -1,0 +1,51 @@
+[
+  {
+    "index":0,
+    "display":"Boy Scout Chief",
+    "when":"2012",
+    "what":"Management of a 3 weeks camp in Nature for 20 people",
+    "why":"Love of Nature, Love of learning, giving some of what I received",
+    "how":"Social skills, commitment, with the help of 2 friends"
+  },
+  {
+    "index":1,
+    "display":"Telecom Paris - Top digital ingeneering school"
+    "when":"2014-2018",
+    "what":"After 2 years of theoretical math studies, several student projects in the domains of IT, video game, connected objects, design, anthropology",
+    "why":"After the concourse, it was the second best school I could get - but I wanted to be in Paris, and to focus on informatics and web",
+    "how":"With difficulty (TODO)"
+  },
+  {
+    "index":2,
+    "display":"Monkey Money"
+    "when":"2018-2019",
+    "what":"At the end of my school, I've been in a social start-up about virtualized local currencies",
+    "why":"I had been feeling concerned about social and economic issues, and it seemed an opportunity for me to have a good impact, by allowing people to regain control of their added value at a local scale",
+    "how":"Marketing calls and business plan, design and implementation of a full stack web SaaS (React/Redux + Firebase)",
+  },
+  {
+    "index":3,
+    "display":"Distrimedic mobile app"
+    "when":"2019",
+    "what":"It's an app that allows medically ill and dependent people to be followed and treated by a referent",
+    "why":"The social start-up I was in was having financial troubles, so we chose to implement an app, which would have a positive human impact, and would be an insteresting technological performance",
+    "how":"Done with 1 other developer. 'Cahier des charges', database design and open source techs. (React-Native, MongoDB, Redis)",
+  },
+  {
+    "index":4,
+    "display":"Padam Mobility lead web developer"
+    "when":"2019-2020",
+    "what":"Padam proposes SaaS solutions around intelligent public transport. I've been managing their booking site and making it scale for a lot of territories.",
+    "why":"I was looking for a better structure with a positive impact on society and allowing me to acquire technical and teamwork skills.",
+    "how":"Arriving on a static website, and making it maintenable and scalable, with some UI and UX thinking. (React-Redux, Material-UI)",
+  },
+  {
+    "index":5,
+    "display":"Self promoting website"
+    "when":"2020",
+    "what":"Making an egocentric website to find people to connect to",
+    "why":"If I'm not searching, I will only have those who pay people to search for them.",
+    "how":"I decided to test Vuejs !",
+  }
+
+]
